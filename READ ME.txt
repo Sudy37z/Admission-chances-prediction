@@ -1,0 +1,23 @@
+Hello, 
+Myself Sudhanshu Thakur,
+This is my second machine learning project, it is based on regression.
+The topic which I have selected is, predicting the chance of admission of a student on the basis of GRE score,
+LOR, SOP, University ranking , etc.
+
+*********
+The dataset was downloaded from kaggle.
+It was already clean and did not have any null or garbage values or any outliers(can be seen from the box plot). 
+
+********
+I have applied Multiple linear regression model, Polynomial Linear regression model ,Random forest model, and Support vector regression model.
+The accuracy has been measured by various parameters such as Mean absolute error, mean squared error, root mean squared error,R2 score and mean absolute percentage error.              
+The highest accuracy was found to be 78% from multiple linear regression and the MAPE was 6.7%.
+*******
+
+No tuning was performed on any model.
+
+Will surely update it after tuning(HAVE TO LEARN).
+******
+
+THANK YOU :)
+
